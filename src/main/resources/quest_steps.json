@@ -1,0 +1,59 @@
+{
+    "_meta": {
+      "description": "Quest step tracking structure. Displayed by overlay.",
+      "note": "⚠️ Loaded dynamically by IronmanQuestingOverlay. Do not remove."
+    },
+    "steps": [
+      {
+        "id": 1,
+        "description": "Start as a female character, don't forget to make yourself an ironman before leaving tutorial island.",
+        "done": false
+      },
+      {
+        "id": 2,
+        "description": "Use every book and lamp on Herblore UNTIL 77 herblore...",
+        "done": false
+      },
+      {
+        "id": 3,
+        "description": "Use Authenticator AND 2-step verification on registered e-mail.",
+        "done": false
+      },
+      {
+        "id": 4,
+        "description": "Sell bronze dagger, sword, axe, wooden shield and shortbow to the general store",
+        "done": false
+      },
+      {
+        "id": 5,
+        "description": "Buy a spade, start X marks the spot quest",
+        "done": false
+      },
+      {
+        "id": 6,
+        "description": "Drop your runes and ask for more from the magic tutor, pick up your runes",
+        "done": false
+      },
+      {
+        "id": 7,
+        "description": "Pick up every item spawn in the castle, including the ones in cellar, don't forget the cabbage",
+        "done": false
+      },
+      {
+        "id": 8,
+        "description": "Fill a jug with water",
+        "done": false
+      },
+      {
+        "id": 9,
+        "description": "Talk to the duke to start Rune mysteries quest",
+        "done": false
+      },
+      {
+        "id": 10,
+        "description": "Go to the top of the castle, bank everything",
+        "done": false
+      }
+    ]
+  }
+  
