@@ -7,7 +7,7 @@ public class ExamplePluginTest
 {
 	public static void main(String[] args) throws Exception
 	{
-		ExternalPluginManager.loadBuiltin(com.devaz.ironmanquesting.IronmanQuestingPlugin.class);
+		ExternalPluginManager.loadBuiltin(com.devaz.sandcrabhelper.SandCrabHelperPlugin.class);
 		RuneLite.main(args);
 	}
 }
