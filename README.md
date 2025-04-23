@@ -1,5 +1,5 @@
 # Sand Crab Timer by Dev_Az
-
+![image](https://github.com/user-attachments/assets/e15d7c05-706d-4ad9-99e8-9d5775710e9f)
 Sand Crab Timer is a third-party RuneLite plugin designed to assist players training at sand crabs by visually tracking aggression timers, idle timeouts, and providing customizable alert options. It's a minimal yet powerful overlay tool optimized for AFK training scenarios.
 
 ## Current State
@@ -23,3 +23,4 @@ The plugin is stable and ready for use. It provides core features aimed at impro
 ## Contribution and Status
 
 This plugin was developed and published by Dev_Az as a free tool for the community. Suggestions, bugs, and feedback are welcome via GitHub or Discord (Azerate). Consider supporting if you find it useful.
+
